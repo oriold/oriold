@@ -11,6 +11,7 @@ repo here. I mostly use my forgejo private instance, and have some stuff
 mirrored or hosted in codeberg:
 
 - [oriold Codeberg.org](https://codeberg.org/oriold)
+- [linkstack](https://oriol.ie)
 
 <!--
 **oriold/oriold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
