@@ -1,9 +1,11 @@
 ## About me
 
-Systems Administrator. Currently having fun with NixOS. Curious Person. Advocate
-for Privacy. Plant-Based. Concerned about Environmental and Geopolitical Issues.
-Based in County Wicklow, Ireland. The opinions expressed here are solely my own
-and may not align with those of my employer. Boosting or sharing does not always
+Senior Systems/Cloud/DevOps Engineer
+
+Currently having fun with NixOS. Curious Person. Advocate for Privacy.
+Plant-Based. Concerned about Environmental and Geopolitical Issues. Based in
+County Wicklow, Ireland. The opinions expressed here are solely my own and may
+not align with those of my employer. Boosting or sharing does not always
 constitute an endorsement.
 
 I mirror privately on Github for statistics and use it for operational reasons,
